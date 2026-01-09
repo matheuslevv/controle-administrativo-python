@@ -11,4 +11,4 @@ Projeto simples desenvolvido em Python com o objetivo de praticar lógica de pro
 - Python 3
 
 ## Objetivo
-Projeto educacional voltado para aprendizado e demonstração de conhecimentos básicos em Python, ideal para estudantes em busca de estágio na área de TI.
+Projeto educacional voltado para aprendizado e demonstração de conhecimentos básicos em Python, para estudantes em busca de estágio na área de TI.
